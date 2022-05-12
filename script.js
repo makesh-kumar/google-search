@@ -1,7 +1,7 @@
 // @ts-nocheck
 
-// const API_KEY = "919d47dae2msh0f191c7cffd313bp196f6cjsn65d79d3adf31";
-const API_KEY = "f153cb6f22msh5ed79cf8c006778p13a8eejsn237d395e5afb";
+const API_KEY = "919d47dae2msh0f191c7cffd313bp196f6cjsn65d79d3adf31";
+// const API_KEY = "f153cb6f22msh5ed79cf8c006778p13a8eejsn237d395e5afb";
 
 const inputNode = document.querySelector(".text");
 const resultNode = document.querySelector(".result");
